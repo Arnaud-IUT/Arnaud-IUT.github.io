@@ -6,6 +6,7 @@ classDiagram
     Portfolio --> Page : contient
     Portfolio --> Projet : contient
     Portfolio --> CV : contient
+	Portfolio --> Badge : contient
 
     class Portfolio {
         +String titre
@@ -24,6 +25,9 @@ classDiagram
     class CV {
         +String fichier
     }
+	class Badge{
+		+String fichier
+	}
     </pre>
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
