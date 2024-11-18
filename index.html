@@ -3,23 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bonjour Monde</title>
+    <title>Bonjour Monde Animé</title>
     <style>
         body {
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f8ff;
+            position: relative;
         }
+
         h1 {
-            color: #2c3e50;
+            position: absolute;
+            font-size: 3rem;
+            color: white;
+            animation: moveText 5s infinite linear;
+        }
+
+        @keyframes moveText {
+            0% { top: 10%; left: 10%; }
+            25% { top: 10%; left: 80%; }
+            50% { top: 80%; left: 80%; }
+            75% { top: 80%; left: 10%; }
+            100% { top: 10%; left: 10%; }
         }
     </style>
 </head>
 <body>
     <h1>Bonjour, monde !</h1>
+
+    <script>
+        function getRandomColor() {
+            const letters = "0123456789ABCDEF";
+            let color = "#";
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+
+        setInterval(() => {
+            document.body.style.backgroundColor = getRandomColor();
+        }, 5000);
+    </script>
 </body>
 </html>
