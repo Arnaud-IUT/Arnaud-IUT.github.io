@@ -1,0 +1,31 @@
+18/11 - 2h
+	• Modélisation du projet en UML : 1.5h
+	• Créer le dépôt GitHub pour le portfolio : 0.5h
+
+25/11 - 6h
+	• Initialiser le projet Jekyll : 1.5h
+	• Configurer GitHub Pages : 1h
+	• Choisir et installer un thème Jekyll : 2h
+	• Créer les pages principales du portfolio : 1.5h
+
+04/12 - 4h
+	• Rédiger le contenu pour les pages : 2h
+	• Personnaliser le design CSS du thème : 2h
+
+09/12 - 4h
+	• Ajouter des projets et des images : 1.5h
+	• Tester le site localement : 1h
+	• Déployer le site sur GitHub Pages : 0.5h
+	• Vérification finale et ajustements : 1h
+
+Durée totale = 16h
+
+Portfolio : 
+	•CV
+	•Projet
+	•Compétence
+	•Formation 
+	•Exemple CSS
+	•Construction du portfolio
+	•Métrologie UML
+ 
