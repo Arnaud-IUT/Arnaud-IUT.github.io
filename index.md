@@ -1,6 +1,6 @@
 ---
 title: "Arnaud BONNEFOI - CV"
-theme: hacker
+theme: jekyll
 ---
 
 # Arnaud BONNEFOI
