@@ -3,7 +3,7 @@ title: "Arnaud BONNEFOI - CV"
 theme: hacker
 ---
 
-# Jean-Antoine Gimenez
+# Arnaud BONNEFOI
 
 ---
 
