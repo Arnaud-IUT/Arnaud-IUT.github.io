@@ -9,7 +9,7 @@ theme: jekyll
 
 ### **Informations Personnelles**
 - **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:jean-antoine.gimenez@etudiant.univ-perp.fr)
-- **Téléphone** : 06 95 12 69 42
+- **Téléphone** : Secret defence
 - **Adresse** : Oui oui oui
 - **Mobilité** : PARTOUT  
 - **Âge** : 1000 ans  
