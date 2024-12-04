@@ -55,11 +55,6 @@ title: "Arnaud BONNEFOI - CV"
 - Visualisation cartographique (SIG), itinéraires, et points de repère
 - **Technologies** : MySQL, PHP, JavaScript
 
-#### Mise en œuvre d'une enquête
-*Octobre 2022 à janvier 2023 - Carcassonne Agglo*
-- Élaboration d’un questionnaire et saisie des réponses
-- Analyse statistique (Sphinx) et rédaction de rapport
-- Préconisations au commanditaire
 
 ---
 
@@ -74,6 +69,4 @@ title: "Arnaud BONNEFOI - CV"
 
 ---
 
-<div style="margin-top: 50px; text-align: center;">
-  <p>Copyright © Arnaud BONNEFOI - 2024</p>
-</div>
+
