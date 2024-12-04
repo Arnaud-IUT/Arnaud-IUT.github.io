@@ -1,8 +1,5 @@
-
-
 # Nom du site
 title: "Arnaud BONNEFOI - CV"
-
 
 url: "https://ton-utilisateur.github.io/ton-depot"
 
@@ -12,22 +9,17 @@ theme: jekyll-theme-minimal
 # Description du site
 description: "CV en ligne d'Arnaud BONNEFOI"
 
-![Image CV](cv.png)
-
 # Plugins de Jekyll 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
-
-
 language: "fr"
 
-
 paginate: 5  # Nombre d'articles par page dans un blog
-
 
 footer:
   text: "Copyright © Arnaud BONNEFOI - 2024"
 
+# Image à utiliser sur la page
+header_image: "assets/images/cv.png"
