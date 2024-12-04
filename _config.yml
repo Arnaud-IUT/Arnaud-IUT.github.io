@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 # Description du site
 description: "CV en ligne d'Arnaud BONNEFOI"
 
-
+![Image CV](cv.png)
 
 # Plugins de Jekyll 
 plugins:
