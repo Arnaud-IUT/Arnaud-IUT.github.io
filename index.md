@@ -70,10 +70,8 @@ theme: jekyll
 ---
 
 ### **Centres d'Intérêt**
-- **Caisse à savon** : Construction et course de véhicules sans moteur  
-- **Moto**  
-- **Électronique/Informatique** : Objets connectés, analyse statistique, SIG  
-- **Histoire** : XIXe et XXe siècles  
+  
+- **Électronique/Informatique** : Objets connectés, SIG  
 
 ---
 
