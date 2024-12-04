@@ -1,8 +1,8 @@
-title: Mon Portfolio
+title: Mon CV
 description: Documentation du Portfolio
-theme: jekyll-theme-cayman  # Vous pouvez choisir un autre thème
-markdown: kramdown  # Utilisez kramdown pour une meilleure gestion du markdown
-paginate: 5  # Pagination de 5 éléments par page
+theme: jekyll-theme-architect  
+markdown: kramdown  
+paginate: 5  
 
 
 
