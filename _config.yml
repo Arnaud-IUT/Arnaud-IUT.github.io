@@ -1,6 +1,6 @@
 title: Mon CV
 description: Documentation du Portfolio
-theme: jekyll-theme-midnight  #merlot
+theme: jekyll-theme-lagrange  #merlot
 markdown: kramdown  
 paginate: 5  
 
