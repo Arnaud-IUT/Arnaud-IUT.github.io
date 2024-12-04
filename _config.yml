@@ -7,7 +7,7 @@ title: "Arnaud BONNEFOI - CV"
 url: "https://ton-utilisateur.github.io/ton-depot"
 
 # Thème à utiliser 
-theme: minimal  # Remplace par le thème que tu veux, par exemple : jekyll-theme-minimal
+theme: jekyll-theme-minimal  
 
 # Description du site
 description: "CV en ligne d'Arnaud BONNEFOI"
