@@ -11,6 +11,7 @@ title: "Arnaud BONNEFOI - CV"
     color: #333;
     margin: 0;
     padding: 0;
+    padding-top: 50px;  /* Ajout de marge en haut de la page */
   }
 
   h1, h2, h3 {
@@ -150,4 +151,39 @@ title: "Arnaud BONNEFOI - CV"
     <li><strong>Octobre 2023 à janvier 2024 - IUT Carcassonne</strong></li>
     <li>Application web avec gestion de compte personnel</li>
     <li>Visualisation cartographique (SIG), itinéraires, et points de repère</li>
-    <li><strong>Technologies</strong>
+    <li><strong>Technologies</strong>: MySQL, PHP, JavaScript</li>
+  </ul>
+
+  <h3>Mise en œuvre d'une enquête</h3>
+  <ul>
+    <li><strong>Octobre 2022 à janvier 2023 - Carcassonne Agglo</strong></li>
+    <li>Élaboration d’un questionnaire et saisie des réponses</li>
+    <li>Analyse statistique (Sphinx) et rédaction de rapport</li>
+    <li>Préconisations au commanditaire</li>
+  </ul>
+</div>
+
+---
+
+### **Langues**
+<div class="section languages">
+  <ul>
+    <li><strong>Anglais</strong>: B2</li>
+    <li><strong>Espagnol</strong>: B1</li>
+  </ul>
+</div>
+
+---
+
+### **Centres d'Intérêt**
+<div class="section interests">
+  <ul>
+    <li><strong>Électronique/Informatique</strong>: Objets connectés, SIG</li>
+  </ul>
+</div>
+
+---
+
+<div class="footer">
+  <p>Copyright © Arnaud BONNEFOI - 2024</p>
+</div>
