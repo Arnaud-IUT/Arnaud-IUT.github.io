@@ -1,6 +1,6 @@
 ---
+layout: default
 title: "Arnaud BONNEFOI - CV"
-theme: modern
 ---
 
 # Arnaud BONNEFOI
@@ -9,12 +9,12 @@ theme: modern
 
 ### **Informations Personnelles**
 - **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:arnaud.bonnefoi@etudiant.univ-perp.fr)
-- **Téléphone** : Secret defence
+- **Téléphone** : Secret défense
 - **Adresse** : Oui oui oui
 - **Mobilité** : PARTOUT  
 - **Âge** : 1000 ans  
 - **Permis** : B  
-- **Véhicule personnel**  La plus belle de toute
+- **Véhicule personnel** : La plus belle de toute
 
 ---
 
@@ -31,7 +31,7 @@ theme: modern
 
 #### **Programmation**
 - **Langages** : Python, SQL/PLSQL, R, HTML/CSS, JavaScript, PHP, SVG
-- **Logiciels** : FME !!!!, Microsoft Office (Excel, Access, PowerPoint, Power BI), ArcGIS, QGIS,  pgAdmin
+- **Logiciels** : FME, Microsoft Office (Excel, Access, PowerPoint, Power BI), ArcGIS, QGIS, pgAdmin
 
 ---
 
@@ -39,15 +39,15 @@ theme: modern
 - **BUT Science des Données (SD)**  
   *Université de Perpignan, depuis septembre 2022*  
 - **Baccalauréat général**  
-  *Lycee George pompidou**  
-  Mention assez bien   
+  *Lycée Georges Pompidou*  
+  Mention assez bien  
 
 ---
 
 ### **Expériences et Projets**
 #### **Alternance CD34 Service SIG**  
 *2023-2025*  
- 
+- Développement et gestion de services SIG pour la collectivité.
 
 #### **Création d'une application web GPS**  
 *Octobre 2023 à janvier 2024 - IUT Carcassonne*  
@@ -70,11 +70,4 @@ theme: modern
 ---
 
 ### **Centres d'Intérêt**
-  
-- **Électronique/Informatique** : Objets connectés, SIG  
-
----
-
-
-
-
+- **Électronique/Informatique** : Objets connectés, SIG
