@@ -7,10 +7,6 @@ title: "Arnaud BONNEFOI - CV"
 
 ---
 
-![Image CV](cv.png)
-
----
-
 ### Informations Personnelles
 - **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:arnaud.bonnefoi@etudiant.univ-perp.fr)
 - **Téléphone** : Secret défense
