@@ -75,7 +75,6 @@ theme: modern
 
 ---
 
-*Site web basé sur un thème Hacker.*
 
 
 
