@@ -1,25 +1,8 @@
-# Nom du site
-title: "Arnaud BONNEFOI - CV"
+title: Mon Portfolio
+description: Documentation du Portfolio
+theme: jekyll-theme-cayman  # Vous pouvez choisir un autre thème
+markdown: kramdown  # Utilisez kramdown pour une meilleure gestion du markdown
+paginate: 5  # Pagination de 5 éléments par page
 
-url: "https://ton-utilisateur.github.io/ton-depot"
 
-# Thème à utiliser 
-theme: jekyll-theme-minimal  
 
-# Description du site
-description: "CV en ligne d'Arnaud BONNEFOI"
-
-# Plugins de Jekyll 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-language: "fr"
-
-paginate: 5  # Nombre d'articles par page dans un blog
-
-footer:
-  text: "Copyright © Arnaud BONNEFOI - 2024"
-
-# Image à utiliser sur la page
-header_image: "assets/images/cv.png"
