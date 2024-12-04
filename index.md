@@ -8,7 +8,7 @@ theme: jekyll
 ---
 
 ### **Informations Personnelles**
-- **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:jean-antoine.gimenez@etudiant.univ-perp.fr)
+- **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:arnaud.bonnefoi@etudiant.univ-perp.fr)
 - **Téléphone** : Secret defence
 - **Adresse** : Oui oui oui
 - **Mobilité** : PARTOUT  
