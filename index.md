@@ -19,9 +19,8 @@
 
 - [Compétence](#Compétences)
 - [Formations](#Formations)
-- [Experiences](#Expériences et Projets)
-- [Langues](#Langues)
-- [Centres d'Intérêt](#Centres d'Intérêt)
+- [Experiences](#Expériences)
+
 ---
 ### Compétences
 
@@ -49,7 +48,7 @@
 
 ---
 
-### Expériences et Projets
+### Expériences
 
 #### Alternance CD34 Service SIG
 *2023-2025*
