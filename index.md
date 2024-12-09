@@ -15,13 +15,18 @@
 - **Site Internet** : [ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
+
 ### Sommaire
 
-- [Compétence](#Compétences)
-- [Formations](#Formations)
-- [Experiences](#Expériences)
+- [Compétences](#compétences)
+- [Formations](#formations)
+- [Expériences](#expériences)
+- [Langues](#langues)
+- [Centres d'Intérêt](#centres-dintérêt)
+- [Modèle de Mermaid](#model-de-mermaid)
 
 ---
+
 ### Compétences
 
 #### Base de données
@@ -54,9 +59,7 @@
 *2023-2025*
 - **Production de cartes SIG** : Création et mise à jour de cartes thématiques pour les besoins de l'administration, analyse spatiale et visualisation des données géographiques.
 - **Gestion de bases de données géospatiales** : Intégration et gestion de données géographiques dans des bases de données (PostgreSQL/PostGIS).
-- **Traitement des données SIG** : Nettoyage, transformation et analyse des données géospatiales 
-
-
+- **Traitement des données SIG** : Nettoyage, transformation et analyse des données géospatiales
 
 #### Création d'une application web GPS
 *Octobre 2023 à janvier 2024 - IUT Carcassonne*
@@ -78,5 +81,5 @@
 
 ---
 
-### Model de Mermaid
+### Modèle de Mermaid
 - **Diagramme** : [ici](https://arnaud-iut.github.io/diagramme.html)
