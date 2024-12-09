@@ -66,6 +66,12 @@
 
 ---
 
+---
+
 ### Centres d'Intérêt
 - **Électronique/Informatique** : Objets connectés, SIG
 - **Gomoku** : fan du jeu
+---
+
+### Model de Mermaid
+- **Diagramme** : [ici](https://arnaud-iut.github.io/diagramme.html)
