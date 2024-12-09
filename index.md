@@ -14,7 +14,7 @@ title: "Arnaud BONNEFOI - CV"
 - **Âge** : 1000 ans
 - **Permis** : B
 - **Véhicule personnel** : La plus belle de toute
-- **Site Internet** : [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- **Site Internet** : [ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
