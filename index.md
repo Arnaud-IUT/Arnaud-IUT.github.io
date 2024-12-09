@@ -1,3 +1,5 @@
+layout: default
+title: "Arnaud BONNEFOI - CV"
 ---
 
 # Arnaud BONNEFOI
