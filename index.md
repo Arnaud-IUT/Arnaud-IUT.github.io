@@ -1,20 +1,6 @@
 ---
 
-# Arnaud BONNEFOI
-
----
-
-### Informations Personnelles
-- **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:arnaud.bonnefoi@etudiant.univ-perp.fr)
-- **Téléphone** : Secret défense
-- **Adresse** : Oui oui oui
-- **Mobilité** : PARTOUT
-- **Âge** : 1000 ans
-- **Permis** : B
-- **Véhicule personnel** : La plus belle de toute
----
-
-### Arnaud BONNEFOI
+# Mon CV
 
 ---
 
