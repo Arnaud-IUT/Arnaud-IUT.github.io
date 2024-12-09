@@ -1,4 +1,3 @@
----
 layout: default
 title: "Arnaud BONNEFOI - CV"
 ---
@@ -15,6 +14,7 @@ title: "Arnaud BONNEFOI - CV"
 - **Âge** : 1000 ans
 - **Permis** : B
 - **Véhicule personnel** : La plus belle de toute
+- **Site Internet** : [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
@@ -48,13 +48,17 @@ title: "Arnaud BONNEFOI - CV"
 
 #### Alternance CD34 Service SIG
 *2023-2025*
+- **Production de cartes SIG** : Création et mise à jour de cartes thématiques pour les besoins de l'administration, analyse spatiale et visualisation des données géographiques.
+- **Gestion de bases de données géospatiales** : Intégration et gestion de données géographiques dans des bases de données (PostgreSQL/PostGIS).
+- **Traitement des données SIG** : Nettoyage, transformation et analyse des données géospatiales 
+
+
 
 #### Création d'une application web GPS
 *Octobre 2023 à janvier 2024 - IUT Carcassonne*
 - Application web avec gestion de compte personnel
 - Visualisation cartographique (SIG), itinéraires, et points de repère
 - **Technologies** : MySQL, PHP, JavaScript
-
 
 ---
 
@@ -66,8 +70,4 @@ title: "Arnaud BONNEFOI - CV"
 
 ### Centres d'Intérêt
 - **Électronique/Informatique** : Objets connectés, SIG
-- **Gomoku** : fan du jeux
-
----
-
-
+- **Gomoku** : fan du jeu
