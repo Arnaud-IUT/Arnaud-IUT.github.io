@@ -66,11 +66,10 @@
 
 ---
 
----
-
 ### Centres d'Intérêt
 - **Électronique/Informatique** : Objets connectés, SIG
 - **Gomoku** : fan du jeu
+
 ---
 
 ### Model de Mermaid
