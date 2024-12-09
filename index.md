@@ -15,7 +15,14 @@
 - **Site Internet** : [ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
+###Sommaire
 
+- [Compétence](#Compétences)
+- [Formations](#Formations)
+- [Experiences](#Expériences et Projets)
+- [Langues](#Langues)
+- [Centres d'Intérêt](#Centres d'Intérêt)
+---
 ### Compétences
 
 #### Base de données
