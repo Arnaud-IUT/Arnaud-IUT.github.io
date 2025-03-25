@@ -1,85 +1,46 @@
----
+graph TD;
+    A[SAE5.VCOD.SIG] --> B[carte.php]
+    A[SAE5.VCOD.SIG] --> C[index.php]
+    A[SAE5.VCOD.SIG] --> D[bdd]
+    A[SAE5.VCOD.SIG] --> E[Cahier de charge]
+    A[SAE5.VCOD.SIG] --> F[Config]
+    A[SAE5.VCOD.SIG] --> G[html]
+    A[SAE5.VCOD.SIG] --> H[images]
+    A[SAE5.VCOD.SIG] --> I[includes]
+    A[SAE5.VCOD.SIG] --> J[sidebars]
 
-# Mon CV
+    D --> D1[bdd_sae.backup]
+    D --> D2[Looping.exe]
+    D --> D3[Looping.zip]
+    D --> D4[LoopingImage.jpg]
+    D --> D5[Looping_32bits.exe]
+    D --> D6[MCD SAE5 et 6.VCOD.01 Projet complet SIG.loo]
+    D --> D7[projet FME.fmw]
+    D --> D8[projet FME.log]
+    D --> D9[requete.sql]
 
----
+    E --> E1[NBRE de crop.txt]
+    E --> E2[S5 - Projet SIG complet - Instructions sur Projet à réaliser et rendre - 2024_2025 v2.pdf]
 
-### Informations Personnelles
-- **Email** : [arnaud.bonnefoi@etudiant.univ-perp.fr](mailto:arnaud.bonnefoi@etudiant.univ-perp.fr)
-- **Téléphone** : Secret défense
-- **Adresse** : Oui oui oui
-- **Mobilité** : PARTOUT
-- **Âge** : 1000 ans
-- **Permis** : B
-- **Véhicule personnel** : La plus belle de toute
-- **Site Internet** : [ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+    F --> F1[connexion.php]
+    F --> F2[global.php]
+    F --> F3[session.php]
 
----
+    G --> G1[requete.php]
 
-### Sommaire
+    H --> H1[Crop circle]
+    H --> H2[Icone leaflet]
+    H --> H3[Image du site]
+    H --> H4[Site megalithique]
 
-- [Compétences](#compétences)
-- [Formations](#formations)
-- [Expériences](#expériences)
-- [Langues](#langues)
-- [Centres d'Intérêt](#centres-dintérêt)
-- [Modèle de Mermaid](#model-de-mermaid)
+    H1 --> H1_1[2_2004.jpg]
+    H2 --> H2_1[base_nucleaire.png]
+    H3 --> H3_1[cropcrircle.jpg]
+    H4 --> H4_1[image_1.jpg]
 
----
+    I --> I1[footer.php]
+    I --> I2[header.php]
 
-### Compétences
-
-#### Base de données
-- Extraction, nettoyage et gestion de BDD
-- Requêtes SQL et création de tableaux de bord
-- Automatisation de collecte de données sous BDD
-
-#### Statistique
-- Conduite d’études statistiques
-- Analyse et communication des résultats
-- Conception de questionnaires
-
-#### Programmation
-- **Langages** : Python, SQL/PLSQL, R, HTML/CSS, JavaScript, PHP, SVG
-- **Logiciels** : FME, Microsoft Office (Excel, Access, PowerPoint, Power BI), ArcGIS, QGIS, pgAdmin
-
----
-
-### Formations
-- **BUT Science des Données (SD)**  
-  *Université de Perpignan, depuis septembre 2022*
-- **Baccalauréat général**  
-  *Lycée Georges Pompidou* - Mention assez bien
-
----
-
-### Expériences
-
-#### Alternance CD34 Service SIG
-*2023-2025*
-- **Production de cartes SIG** : Création et mise à jour de cartes thématiques pour les besoins de l'administration, analyse spatiale et visualisation des données géographiques.
-- **Gestion de bases de données géospatiales** : Intégration et gestion de données géographiques dans des bases de données (PostgreSQL/PostGIS).
-- **Traitement des données SIG** : Nettoyage, transformation et analyse des données géospatiales
-
-#### Création d'une application web GPS
-*Octobre 2023 à janvier 2024 - IUT Carcassonne*
-- Application web avec gestion de compte personnel
-- Visualisation cartographique (SIG), itinéraires, et points de repère
-- **Technologies** : MySQL, PHP, JavaScript
-
----
-
-### Langues
-- **Anglais** : B2
-- **Espagnol** : B1
-
----
-
-### Centres d'Intérêt
-- **Électronique/Informatique** : Objets connectés, SIG
-- **Gomoku** : fan du jeu
-
----
-
-### Modèle de Mermaid
-- **Diagramme** : [ici](https://arnaud-iut.github.io/diagramme.html)
+    J --> J1[index.html]
+    J --> J2[sidebars.css]
+    J --> J3[sidebars.js]
