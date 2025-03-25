@@ -1,3 +1,8 @@
+# Arborescence du projet SAE5.VCOD.SIG
+
+Cette page représente l'arborescence des fichiers et répertoires du projet **SAE5.VCOD.SIG**. Vous trouverez ci-dessous une vue structurée de tous les fichiers et répertoires présents dans le dossier du projet.
+
+```mermaid
 graph TD;
     A[SAE5.VCOD.SIG] --> B[carte.php]
     A[SAE5.VCOD.SIG] --> C[index.php]
